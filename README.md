@@ -13,4 +13,9 @@ Y ESTA ES MI FRASE FAVORITA CUANDO JUEGO VOLEY ⚡
 -😄 ME DICEN ARI O ARIS
 
 -⚡ DECIDI ESTUDIAR PROGRAMACION POR MI FAMILIA Y PQ ME GUSTA
+
+COSAS Q ME GUSTAN;
+
+<img width="685" height="456" alt="image" src="https://github.com/user-attachments/assets/6fab4aa0-e693-4028-add8-2013bd76a602" />
+
 -->
