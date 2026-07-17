@@ -1,16 +1,16 @@
-## Hi there 👋
+✨ _HOLAA SOY ARISS_ ✨
 
-<!--
-**arisss2504/arisss2504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b> "SI NO PUEDO SALVAR EL BALON NO MEREZCO ESTAR EN CANCHA" </b>
+</p>
 
-Here are some ideas to get you started:
+Y ESTA ES MI FRASE FAVORITA CUANDO JUEGO VOLEY ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🔭 ESTOY TRABAJANDO EN GRADUARME 
+
+-🌱 ESTOY APRENDIENDO A PROGRAMAR
+
+-😄 ME DICEN ARI O ARIS
+
+-⚡ DECIDI ESTUDIAR PROGRAMACION POR MI FAMILIA Y PQ ME GUSTA
 -->
