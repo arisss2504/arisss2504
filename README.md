@@ -38,17 +38,25 @@
 
 Volleyball became my favorite sport when I started playing it.
 
-Volleyball helps me to:
+Volleyball has helped me:
 
 improve my technique
 
 learn new game strategies
 
-work as a team
-
-participate in tournaments
+work as a team while playing
 
 stay physically active and develop discipline and responsibility.
+
+---
+
+🌺**MY PROJECT FOR THE FUTURE**
+
+In the future, I would like to finish my studies and become a successful professional. I want to continue learning about programming, develop applications, and create projects that help people. I also wish to have a good job, support my family, and achieve many of my goals. I would like to travel, see new places, and continue playing volleyball as one of my hobbies. I hope to be a responsible, happy, and perseverant person, demonstrating that with effort and dedication, it is possible to achieve dreams.
+
+---
+
+
 
 
 
